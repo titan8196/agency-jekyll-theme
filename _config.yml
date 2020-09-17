@@ -2,16 +2,16 @@ url: https://titan8196.github.io
 baseurl: /spacifycowork/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Spacify CoWork
+email: gupta.himanshu8196@gmail.com
+description: "A collaborative workspace solution for your office needs with ready to work infrastructure setup"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Himanshu Gupta
   pic: 1
-  position: Lead Designer
+  position: Lead
   social:
     - title: twitter
       url: #
@@ -20,26 +20,15 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Rohan Gupta
   pic: 2
-  position: Lead Marketer
+  position: Lead
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
